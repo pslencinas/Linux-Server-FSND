@@ -4,6 +4,7 @@ We are deploying a flask application on to AWS Light Sail.  This document will g
 
 IP address: 54.242.139.103
 
+View this [github](https://github.com/pslencinas/catalogItemFSND.git) to use the application
 
 ## Creating your LightSail Instance for ubuntu
 
